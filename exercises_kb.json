@@ -1,0 +1,63 @@
+{
+    "Cardio": {
+        "Low": [
+            "Walking (30-60 min)",
+            "Light Cycling (30 min)",
+            "Elliptical (20-30 min)",
+            "Swimming (leisurely, 20-30 min)",
+            "Gentle Yoga (30 min)",
+            "Tai Chi (30 min)"
+        ],
+        "Medium": [
+            "Jogging (30 min)",
+            "Brisk Walking (45 min)",
+            "Cycling (moderate pace, 45 min)",
+            "Zumba (45 min)",
+            "Stair climbing (30 min)",
+            "Dance Aerobics (40 min)",
+            "Rowing Machine (30 min)",
+            "Swimming laps (30 min)"
+        ],
+        "High": [
+            "Running HIIT (20-30 min)",
+            "Sprinting intervals (15-20 min)",
+            "Jump Rope HIIT (15-20 min)",
+            "Burpees circuits (15 min)",
+            "High-Intensity Interval Training",
+            "Cycling Sprints (20 min)",
+            "Box Jumps + Kettlebell (25 min)",
+            "Treadmill Hill Sprints (20 min)"
+        ]
+    },
+    "Strength": {
+        "Low": [
+            "Bodyweight Squats (3x10-12)",
+            "Wall Push-ups (3x10-12)",
+            "Resistance Band Rows (3x10-12)",
+            "Chair Dips (3x10-12)",
+            "Plank (30-60 sec)",
+            "Seated Leg Raises (3x12)",
+            "Standing Calf Raises (3x15)"
+        ],
+        "Medium": [
+            "Dumbbell Squats (3x8-10)",
+            "Push-ups (3x8-10)",
+            "Dumbbell Rows (3x8-10)",
+            "Overhead Press (3x8-10)",
+            "Lunges (3x8-10 per leg)",
+            "Dumbbell Bicep Curls (3x10)",
+            "Tricep Dips (3x10)",
+            "Goblet Squats (3x10)"
+        ],
+        "High": [
+            "Barbell Squats (3-5x5-8)",
+            "Deadlifts (3-5x5-8)",
+            "Bench Press (3-5x5-8)",
+            "Pull-ups (3-4 sets to failure)",
+            "Military Press (3-5x5-8)",
+            "Romanian Deadlift (4x6)",
+            "Weighted Dips (4x6)",
+            "Clean and Press (3x5)"
+        ]
+    }
+}
